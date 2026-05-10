@@ -12,7 +12,8 @@ I plan to bridge the gap between data, design, and decision-making.
 <h2 align="center">Recent Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername/smart-city-dashboard">
+  <img width="477" height="266" alt="dashboard_preview" src="https://github.com/user-attachments/assets/bc44ffb1-9e96-49df-b890-cd30ca796f44" />
+  <a href="https://hillsborough-county-housing-predictor.streamlit.app/">
     🏙️ <b>Hillsborough County Housing Predictor</b>
   </a><br>
  An interactive dashboard visualizing sustainability and mobility data that allows the user to view housing prices within Hillsborough County, to aid young first-home buyers on their big step.
@@ -20,6 +21,7 @@ I plan to bridge the gap between data, design, and decision-making.
   <i>Python · Pandas · Streamlit · ArcGIS API</i>
 </p>
 
+<!--
 <hr>
 
 <p align="center">
@@ -59,6 +61,7 @@ I plan to bridge the gap between data, design, and decision-making.
   Power BI · Tableau · Streamlit · Plotly · AWS · Google Cloud
 </p>
 
+-->
 ---
 
 <h3 align="center">Contact Me </h3>
