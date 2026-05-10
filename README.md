@@ -9,13 +9,14 @@ I bridge the gap between data, design, and decision-making.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">Recent Projects</h2>
 
 <p align="center">
   <a href="https://github.com/yourusername/smart-city-dashboard">
-    🏙️ <b>Smart City Dashboard Prototype</b>
+    🏙️ <b>Hillsborough County Housing Predictor</b>
   </a><br>
-  Interactive <b>Streamlit + ArcGIS</b> dashboard visualizing sustainability and mobility data.<br>
+ An interactive dashboard visualizing sustainability and mobility data that allows the user to view housing prices within Hillsborough County, to aid young first-home buyers on their big step.
+  <br>
   <i>Python · Pandas · Streamlit · ArcGIS API</i>
 </p>
 
