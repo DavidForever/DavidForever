@@ -2,9 +2,9 @@
 <h3 align="center">Sustainability | GIS | Smart Cities | Data Analytics | Artificial Intelligence</h3>
 
 <p align="center">
-I’m passionate about using <b>data-driven spatial insights</b> to build resilient, equitable, and future-ready cities.  
-With a background in <b>Sustainability and the Built Environment</b> and experience managing <b>GIS systems</b>,  
-I bridge the gap between data, design, and decision-making.
+Welcome to my page! My name is David, and I'm a recent graduate who is passionate about using the ever-evolving technology of data and artificial intelligence to help build resilient, equitable, and future-ready cities.  
+With a background in <b>Sustainability and the Built Environment</b> and coding experience,  
+I plan to bridge the gap between data, design, and decision-making.
 </p>
 
 ---
@@ -69,9 +69,6 @@ I bridge the gap between data, design, and decision-making.
   </a>
   <a href="mailto:davidf924@yahoo.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge" />
-  </a>
-  <a href="https://davidforever.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge" />
   </a>
 </p>
 
