@@ -13,6 +13,7 @@ I plan to bridge the gap between data, design, and decision-making.
 
 <p align="center">
   <img width="477" height="266" alt="dashboard_preview" src="https://github.com/user-attachments/assets/bc44ffb1-9e96-49df-b890-cd30ca796f44" />
+  <br>
   <a href="https://hillsborough-county-housing-predictor.streamlit.app/">
     🏙️ <b>Hillsborough County Housing Predictor</b>
   </a><br>
@@ -21,17 +22,19 @@ I plan to bridge the gap between data, design, and decision-making.
   <i>Python · Pandas · Streamlit · ArcGIS API</i>
 </p>
 
-<!--
+
 <hr>
 
 <p align="center">
-  <a href="https://github.com/yourusername/housing-ml-pipeline">
-    🏡 <b>Affordable Housing Data Pipeline</b>
+  <a href="https://hillsborough-gis-assistant.streamlit.app/">
+    🏡 <b>Hillsborough GIS AI Assistant</b>
   </a><br>
-  Automated data pipeline for affordable housing analysis and visualization.<br>
-  <i>Python · SQL · Pandas · Power BI</i>
+  A live demo of an interactive AI Assistant to help with geospatial insights in the Hillsborough County area.
+  <br>
+  <i>Claude API · RAG · GeoPandas · Streamlit</i>
 </p>
 
+<!--
 <hr>
 
 <p align="center">
