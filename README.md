@@ -26,6 +26,8 @@ I plan to bridge the gap between data, design, and decision-making.
 <hr>
 
 <p align="center">
+  <img width="477" height="266" alt="aichat_preview" src="https://github.com/DavidForever/hillsborough-gis-assistant/blob/main/assets/hillsborough-county-gis-assistant.png?raw=true" />
+  <br>
   <a href="https://hillsborough-gis-assistant.streamlit.app/">
     🏡 <b>Hillsborough GIS AI Assistant</b>
   </a><br>
