@@ -19,7 +19,7 @@ I plan to bridge the gap between data, design, and decision-making.
   </a><br>
  An interactive dashboard visualizing sustainability and mobility data that allows the user to view housing prices within Hillsborough County, to aid young first-home buyers on their big step.
   <br>
-  <i>Python · Pandas · Streamlit · ArcGIS API</i>
+  <i>Python · Pandas · Streamlit · ArcGIS API XGBoost · SHAP · GeoPandas · FEMA data</i>
 </p>
 
 
